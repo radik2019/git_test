@@ -1,8 +1,15 @@
+<<<<<<< HEAD
 un nuovo xabcdefgh
 1234342fgh
 dfgdfg4342fgh
+=======
+>>>>>>> test_merge2
 hjgjh
 hjgjh
 hjgjh
 hjgjh
 hjgjh
+<<<<<<< HEAD
+=======
+ADDED ANOTHER ROW
+>>>>>>> test_merge2
