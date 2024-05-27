@@ -1,0 +1,35 @@
+* [33m068417a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mbmp_1[m[33m)[m first commit from branch bmp_1
+* [33m6b8eb5b[m[33m ([m[1;33mtag: [m[1;33mv1.82.42-beta[m[33m, [m[1;32mbumpversion_br[m[33m)[m hello bumpversion4
+* [33m2c7dc8e[m[33m ([m[1;33mtag: [m[1;33mv1.82.2-beta[m[33m)[m hello bumpversion3
+* [33ma0301b7[m hello bumpversion2
+* [33m04691b6[m[33m ([m[1;33mtag: [m[1;33mv1.82.1-beta[m[33m)[m hello bumpversion
+[31m|[m * [33ma27b1f0[m[33m ([m[1;32mtest_merge2[m[33m)[m dfgkjh
+[31m|[m * [33mb7d10da[m merged....
+[31m|[m * [33mdbac0e7[m -----D-----
+[31m|[m * [33m435e1ad[m -----C-----
+[31m|[m[31m/[m  
+* [33md660814[m[33m ([m[1;33mtag: [m[1;33mv-0.1.1[m[33m)[m -----B-----
+* [33m440fe81[m -----A-----
+* [33m0d49a36[m modified new.txt
+[32m|[m * [33mbd0f5d9[m[33m ([m[1;32mdev1[m[33m)[m added another merge
+[32m|[m * [33m04424b4[m -----5-----
+[32m|[m * [33mb87b509[m -----4-----
+[32m|[m * [33m26bb5c6[m -----3-----
+[32m|[m * [33md58bf56[m -----2-----
+[32m|[m * [33mee87357[m -----1-----
+[32m|[m * [33m38aa02d[m [3dev] aaggiunti dei file
+[32m|[m [33m|[m * [33m82567eb[m[33m ([m[1;32mtest_merge1[m[33m, [m[1;32mmaster[m[33m)[m modified new.txt
+[32m|[m [33m|[m[32m/[m  
+[32m|[m[32m/[m[33m|[m   
+* [33m|[m [33mad8eb27[m[33m ([m[1;32mdev4[m[33m)[m aggiunto modifiche al new.txt
+* [33m|[m [33m958890c[m[33m ([m[1;32mdev3[m[33m)[m commit x3
+* [33m|[m [33mc588ba6[m [2master] aaggiunti dei file
+[34m|[m [33m|[m * [33m00374f7[m[33m ([m[1;32mdev2[m[33m)[m aggiunto modifiche al new.txt
+[34m|[m [33m|[m * [33m89bfd42[m[33m ([m[1;32mnuovo_branch[m[33m)[m aggiunto modifiche al file.txt
+[34m|[m [33m|[m * [33mda50d61[m aggiunto una parola al file text.txt
+[34m|[m [33m|[m * [33ma61df2d[m ------------
+[34m|[m [33m|[m[33m/[m  
+[34m|[m * [33m3c04a47[m [2dev] aaggiunti dei file
+[34m|[m * [33mb11efd3[m [1dev] aaggiunti dei file
+[34m|[m[34m/[m  
+* [33m18a4fef[m [1master] aaggiunti dei file
